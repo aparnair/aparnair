@@ -15,7 +15,7 @@ My journey in computer science, coupled with my passion for cybersecurity, has f
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/aparnair/SIEM-Audit/blob/main/README.md">SIEM Audit</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -56,5 +56,5 @@ My journey in computer science, coupled with my passion for cybersecurity, has f
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/aparnair/SIEM-Audit/blob/main/README.md">SIEM Audit</a>
 - SOC Automation Project
