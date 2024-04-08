@@ -5,6 +5,11 @@
 
 With 3 years of experience and a profound interest in technology, I possess a dedication to solving complex problems.
 
+## Professional Statement
+
+My first inclination to cybersecurity began when my Instagram account was hacked a few years ago. It was a stark wake-up call to the vulnerability of personal data online. I realized that in today's digital age, data is incredibly valuable, defining who we are, and any breach can have severe consequences, ranging from reputation damage to financial loss. This experience solidified my understanding of the critical importance of cybersecurity in safeguarding individuals, businesses, and governments against cyber threats.
+
+
 ## Objective
 
 
