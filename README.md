@@ -21,7 +21,7 @@ My journey in computer science, coupled with my passion for cybersecurity, has f
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/aparnair/SIEM-Audit/blob/main/README.md">SIEM Audit</a>|
-| O.S Hardening Techniques | <a href="https://google.com">Detection Lab</a>|
+| O.S Hardening Techniques | <a href="https://github.com/aparnair/O.S">O.S Hardening Techniques</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -62,4 +62,4 @@ My journey in computer science, coupled with my passion for cybersecurity, has f
 
 ## Projects
 - <a href="https://github.com/aparnair/SIEM-Audit/blob/main/README.md">SIEM Audit</a>
-- SOC Automation Project
+- <a href= "https://github.com/aparnair/O.S">Google Cyber Security Professional Labs</a>
