@@ -16,7 +16,7 @@ My first inclination to cybersecurity began when my Instagram account was hacked
 My journey in computer science, coupled with my passion for cybersecurity, has fueled my desire to transition into this field. I am now eager to leverage my skills and experience to join a reputed organization where I can lead a team, with the aim of making significant contributions to the cybersecurity landscape.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
