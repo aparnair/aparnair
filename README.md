@@ -61,9 +61,9 @@ My journey in computer science, coupled with my passion for cybersecurity, has f
 </div>
 
 ## Projects
-- <a href="https://drive.google.com/drive/u/0/folders/1zgRnopd7fQnUi53p_RiDzAoW2fYeZ5o2">JP Morgan Cybersecurity & Penetration Testing- Bootcamp</a>
-- <a href= "https://drive.google.com/drive/u/0/folders/1zgRnopd7fQnUi53p_RiDzAoW2fYeZ5o2">Mastercard Job Simulation</a>
-- <a href= "https://drive.google.com/drive/u/0/folders/1zgRnopd7fQnUi53p_RiDzAoW2fYeZ5o2">PwC Switzerland Cybersecurity Job Simulation</a>
+- <a href="https://drive.google.com/file/d/1gC37xq4a3ely8PTqFSw43D0C0Bg1H0UU/view?usp=sharing">JP Morgan Cybersecurity & Penetration Testing- Bootcamp</a>
+- <a href= "https://drive.google.com/file/d/1LZoJxEbkEgDstwHH89twa5Glju56snzR/view?usp=sharing">Mastercard Job Simulation</a>
+- <a href= "https://drive.google.com/file/d/1tmRE4tkOS2HZFwNMwLaLCUb7LsRSOone/view?usp=sharing">PwC Switzerland Cybersecurity Job Simulation</a>
 - <a href= "https://github.com/aparnair/O.S">Google Cyber Security Professional Labs</a>
 - <a href="https://github.com/aparnair/SIEM-Audit/blob/main/README.md">SIEM Audit</a>
   
